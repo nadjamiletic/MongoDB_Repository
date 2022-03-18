@@ -1,0 +1,2 @@
+Izmeniti putanju do debug foldera na vasem racunaru u :CDostignuca-33 linija,CPsi-46 linija
+kako biste mogli da ucitate slike koje su vec dodate

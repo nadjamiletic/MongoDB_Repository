@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5e456b9c1d31d1188c56da20"},"ime":"Dunja","prezime":"Mincic","kontakt":"dm@gmail.com","username":"dunja","password":"dunja","psi":[{"$id":{"$oid":"5e458ce21d31d12ea832105a"}}]}
+{"_id":{"$oid":"5e456c6f1d31d1188c56da21"},"ime":"Sara","prezime":"Milosevic","kontakt":"sm@gmail.com","username":"sara","password":"sara","psi":[{"$id":{"$oid":"5e458d221d31d12ea832105b"}}]}
+{"_id":{"$oid":"5e456cb91d31d1188c56da22"},"ime":"Nadja","prezime":"Miletic","kontakt":"nm@gmail.com","username":"nadja","password":"nadja","psi":[{"$id":{"$oid":"5e458d681d31d12ea832105c"}}]}
+{"_id":{"$oid":"5e456cdc1d31d1188c56da23"},"ime":"Jovana","prezime":"Nikolic","kontakt":"jn@gmail.com","username":"jovana","password":"jovana","psi":[{"$id":{"$oid":"5e458e1a1d31d12ea832105d"}}]}
+{"_id":{"$oid":"5e456cf71d31d1188c56da24"},"ime":"Milan","prezime":"Milanovic","kontakt":"mm@gmail.com","username":"milan","password":"milan","psi":[{"$id":{"$oid":"5e4590881d31d10f78f88ff7"}}]}
+{"_id":{"$oid":"5e456d111d31d1188c56da25"},"ime":"Ivan","prezime":"Ivanovic","kontakt":"ii@gmail.com","username":"ivan","password":"ivan","psi":[{"$id":{"$oid":"5e4590e91d31d10f78f88ff8"}}]}
