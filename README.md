@@ -1,1 +1,1 @@
-# MongoDB_Repository
+C# aplikacija za upravljanje izložbama pasa. Vlasnici pasa kreiraju svoj nalog, a potom unose podatke o svom psu, kao i informaciju za koju kategoriju i na koju izložbu prijavljuju svog psa. Odabirom kategorije i izložbe, korisnik dobija pregled svih prijavljenih pasa za koje može glasati. Takođe, korisnici u okviru dela Psi šampioni mogu videti koji su psi pobednici i za koju kategoriju. 
